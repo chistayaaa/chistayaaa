@@ -33,7 +33,7 @@ In my free time I am a content creator!
   <a href="https://www.youtube.com/c/SashaChistyakova">
     <img src="https://www.logo.wine/a/logo/YouTube/YouTube-Icon-Full-Color-Logo.wine.svg" alt="Youtube Badge" width="55"/>
   </a>
-  <a href="https://t.me/chistayaaasasha">
+  <a href="https://t.me/sasha_chistyakova">
     <img src="https://www.logo.wine/a/logo/Telegram_(software)/Telegram_(software)-Logo.wine.svg" width="55" alt="Telegram Badge"/>
   </a>
 </div>
