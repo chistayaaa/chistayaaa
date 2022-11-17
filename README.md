@@ -10,14 +10,14 @@ I am junior fronted-developer.
 I started programming microcontrollers at the university, and now I'm studying frontend development.
 In my free time I am a content creator!
 <div id="badges">
-   <a href="https://chistayaaa.github.io/chistaya/" style="margin-right=15px">
-    <img src="https://www.svgrepo.com/show/423856/unicorn-origami-paper.svg" width="35" alt="My site Badge"/>
+   <a href="https://chistayaaa.github.io/chistaya/">
+    <img src="https://www.svgrepo.com/show/423856/unicorn-origami-paper.svg" width="33" alt="My site Badge"/>&nbsp;
   </a>
   <a href="https://instagram.com/chistayaaa">
-    <img src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" width="55" alt="Instagram Badge"/>
+    <img src="https://www.svgrepo.com/show/111199/instagram.svg" width="30" alt="Instagram Badge"/> &nbsp; 
   </a>
   <a href="https://t.me/sasha_chistyakova">
-    <img src="https://www.logo.wine/a/logo/Telegram_(software)/Telegram_(software)-Logo.wine.svg" width="55" alt="Telegram Badge"/>
+    <img src="https://www.svgrepo.com/show/299513/telegram.svg" width="30" alt="Telegram Badge"/>&nbsp;
   </a>
 </div>
 
