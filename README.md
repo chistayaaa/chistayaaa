@@ -10,7 +10,7 @@ I am junior fronted-developer.
 I started programming microcontrollers at the university, and now I'm studying frontend development.
 In my free time I am a content creator!
 <div id="badges">
-   <a href="https://chistayaaa.github.io/chistaya/" style="padding-right=15px">
+   <a href="https://chistayaaa.github.io/chistaya/" style="margin-right=15px">
     <img src="https://www.svgrepo.com/show/423856/unicorn-origami-paper.svg" width="35" alt="My site Badge"/>
   </a>
   <a href="https://instagram.com/chistayaaa">
