@@ -1,21 +1,5 @@
 
 
-<!--
-### Hi there 👋
-**chistayaaa/chistayaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <div id="header" align="center">
   <h1>Hello! ✨</h1>
 </div>
@@ -26,7 +10,7 @@ I am junior fronted-developer.
 I started programming microcontrollers at the university, and now I'm studying frontend development.
 In my free time I am a content creator!
 <div id="badges">
-   <a href="https://chistayaaa.github.io/chistaya/">
+   <a href="https://chistayaaa.github.io/chistaya/" style="padding-right=5px">
     <img src="https://www.svgrepo.com/show/423856/unicorn-origami-paper.svg" width="35" alt="My site Badge"/>
   </a>
   <a href="https://instagram.com/chistayaaa">
