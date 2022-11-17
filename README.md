@@ -27,7 +27,7 @@ I started programming microcontrollers at the university, and now I'm studying f
 In my free time I am a content creator!
 <div id="badges">
    <a href="https://chistayaaa.github.io/chistaya/">
-    <img src="https://www.svgrepo.com/show/423856/unicorn-origami-paper.svg" width="55" alt="My site Badge"/>
+    <img src="https://www.svgrepo.com/show/423856/unicorn-origami-paper.svg" width="35" alt="My site Badge"/>
   </a>
   <a href="https://instagram.com/chistayaaa">
     <img src="https://www.logo.wine/a/logo/Instagram/Instagram-Logo.wine.svg" width="55" alt="Instagram Badge"/>
