@@ -8,7 +8,6 @@
 ### :woman_technologist: About Me :
 I am junior fronted-developer.
 I started programming microcontrollers at the university, and now I'm studying frontend development.
-In my free time I am a content creator!
 <div id="badges">
   <a href="https://instagram.com/chistayaaa">
     <img src="https://www.svgrepo.com/show/111199/instagram.svg" width="30" alt="Instagram Badge"/> &nbsp; 
