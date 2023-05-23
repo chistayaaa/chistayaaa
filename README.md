@@ -12,7 +12,7 @@ I started programming microcontrollers at the university, and now I'm studying f
   <a href="https://instagram.com/chistayaaa">
     <img src="https://www.svgrepo.com/show/111199/instagram.svg" width="30" alt="Instagram Badge"/> &nbsp; 
   </a>
-  <a href="https://t.me/sasha_chistyakova">
+  <a href="https://t.me/chistayaaa">
     <img src="https://www.svgrepo.com/show/299513/telegram.svg" width="30" alt="Telegram Badge"/>&nbsp;
   </a>
 </div>
